@@ -11,7 +11,7 @@ pipeline {
         stage('Docker Build') {
     	agent any
       steps {
-      	sh 'docker build -t badal773/jenkins-docker  .'
+      	sh 'docker build -t badal773/jenkins-docker  -f Dockerfile'
              }
                                 }
         stage('Test') { 
