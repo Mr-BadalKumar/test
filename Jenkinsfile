@@ -6,6 +6,11 @@ pipeline {
                 echo 'building the application'
             }
         }
+        stage('Initialize'){
+        def dockerHome = tool 'myDocker'
+        env.PATH = "${dockerHome}/bin:${env.PATH}"
+    }
+
         stage('Docker Build') {
     	agent any
       steps {
