@@ -22,7 +22,7 @@ component:
     notifier_ci_artifact_id: 1234
   casbin:
     image: badal773/test:d2fdd46f-9-10
-    casbin_ci_artifact_id: 1
+    artifact_id: 1
   app-sync:
     image: badal773/test:d2fdd46f-9-10
     app_sync_ci_artifact_id: 1234
