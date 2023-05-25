@@ -23,7 +23,7 @@ component:
   casbin:
     image: badal773/test:d2fdd46f-9-10
     artifact_id: 1
-  app-sync:
+  app-sync-cronjob:
     image: badal773/test:d2fdd46f-9-10
     artifact_id: 1234
   git-sensor:
