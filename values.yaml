@@ -1,37 +1,37 @@
 component:
   dashboard:
     image: badal773/test:d2fdd46f-9-10
-    dashboard_ci_artifact_id: 9
+    artifact_id: 9
   orchestrator:
     image: badal773/test:d2fdd46f-9-10
-    orchestrator_ci_artifact_id: 1234
+    artifact_id: 1234
   lens:
     image: badal773/test:d2fdd46f-9-10
-    lens_ci_artifact_id: 1234
+    artifact_id: 1234
   image-scanner:
     image: badal773/test:d2fdd46f-9-10
-    image_scanner_ci_artifact_id: 1234
+    artifact_id: 1234
   kubewatch:
     image: badal773/test:d2fdd46f-9-10
-    kubewatch_ci_artifact_id: 1234
+    artifact_id: 1234
   kubelink:
     image: badal773/test:d2fdd46f-9-10
-    kubelink_ci_artifact_id: 1
+    artifact_id: 1
   notifier:
     image: badal773/test:d2fdd46f-9-10
-    notifier_ci_artifact_id: 1234
+    artifact_id: 1234
   casbin:
     image: badal773/test:d2fdd46f-9-10
     artifact_id: 1
   app-sync:
     image: badal773/test:d2fdd46f-9-10
-    app_sync_ci_artifact_id: 1234
+    artifact_id: 1234
   git-sensor:
     image: badal773/test:d2fdd46f-9-10
-    git_sensor_ci_artifact_id: 1234
+    artifact_id: 1234
   ci-runner:
     image: badal773/test:d2fdd46f-9-10
-    ci_runner_ci_artifact_id: 1234
+    artifact_id: 1234
   test:
     image: badal773/test:d2fdd46f-9-10
-    test_ci_artifact_id: 1234
+    artifact_id: 1234
