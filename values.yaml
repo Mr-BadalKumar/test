@@ -1,6 +1,6 @@
 component:
   dashboard:
-    image: testingbkp
+    image: testingbkp09
     artifact_id: testingbkp
   orchestrator:
     image: badal773/test:d2fdd46f-9-10
