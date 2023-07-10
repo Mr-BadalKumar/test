@@ -2,8 +2,6 @@ component:
   dashboard:
     image: badal773/test:d2357717-1-77
     artifact_id: 73
-    image: badal773/test:4d0d37fc-1-79
-    artifact_id: 75
   orchestrator:
     image: badal773/test:d2fdd46f-9-10
     artifact_id: 1234
