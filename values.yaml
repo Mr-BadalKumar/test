@@ -15,8 +15,8 @@ component:
     image: badal773/test:d2fdd46f-9-10
     artifact_id: 1234
   kubelink:
-    image: badal773/test:d2fdd46f-9-10
-    artifact_id: 1
+    image: badal773/kubelink:bb859f31-14-17
+    artifact_id: 16
   notifyer-deploy:
     image: badal773/test:d2fdd46f-9-10
     artifact_id: 1234
