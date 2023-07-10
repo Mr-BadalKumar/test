@@ -3,8 +3,8 @@ component:
     image: badal773/test:d2357717-1-77
     artifact_id: 73
   orchestrator:
-    image: badal773/test:d2fdd46f-9-10
-    artifact_id: 1234
+    image: badal773/test:96b046e8-8-7
+    artifact_id: 7
   lens:
     image: badal773/test:d2fdd46f-9-10
     artifact_id: 1234
