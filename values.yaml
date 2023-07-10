@@ -3,8 +3,8 @@ component:
     image: badal773/dashboard:bb859f31-11-15
     artifact_id: 14
   orchestrator:
-    image: badal773/orchestrator:bb859f31-8-18
-    artifact_id: 18
+    image: badal773/orchestrator:954f5e6a-8-23
+    artifact_id: 22
   lens:
     image: badal773/lens:bb859f31-12-14
     artifact_id: 15
