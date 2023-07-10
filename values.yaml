@@ -12,8 +12,8 @@ component:
     image: badal773/image-scanner:bb859f31-15-19
     artifact_id: 19
   kubewatch:
-    image: badal773/kubewatch:bb859f31-13-16
-    artifact_id: 17
+    image: badal773/kubewatch:954f5e6a-13-21
+    artifact_id: 20
   kubelink:
     image: badal773/kubelink:954f5e6a-14-22
     artifact_id: 23
