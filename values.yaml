@@ -24,8 +24,8 @@ component:
     image: badal773/test:d2fdd46f-9-10
     artifact_id: 1
   app-sync-cronjob:
-    image: badal773/test:d2fdd46f-9-10
-    artifact_id: 1234
+    image: badal773/app-sync-cronjob:954f5e6a-18-27
+    artifact_id: 27
   git-sensor:
     image: badal773/git-sensor:954f5e6a-19-25
     artifact_id: 25
