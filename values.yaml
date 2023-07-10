@@ -6,8 +6,8 @@ component:
     image: badal773/test:96b046e8-8-7
     artifact_id: 7
   lens:
-    image: badal773/test:d2fdd46f-9-10
-    artifact_id: 1234
+    image: badal773/lens:bb859f31-12-14
+    artifact_id: 15
   image-scanner:
     image: badal773/test:d2fdd46f-9-10
     artifact_id: 1234
