@@ -15,8 +15,8 @@ component:
     image: badal773/kubewatch:bb859f31-13-16
     artifact_id: 17
   kubelink:
-    image: badal773/kubelink:bb859f31-14-17
-    artifact_id: 16
+    image: badal773/kubelink:954f5e6a-14-22
+    artifact_id: 23
   notifyer-deploy:
     image: badal773/test:d2fdd46f-9-10
     artifact_id: 1234
