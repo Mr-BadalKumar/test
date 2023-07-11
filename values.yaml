@@ -6,8 +6,8 @@ component:
     image: badal773/orchestrator:9099b2ff-8-78
     artifact_id: 66
   lens:
-    image: badal773/lens:9099b2ff-12-89
-    artifact_id: 78
+    image: badal773/lens:9099b2ff-12-90
+    artifact_id: 79
   image-scanner:
     image: badal773/image-scanner:9099b2ff-15-80
     artifact_id: 69
