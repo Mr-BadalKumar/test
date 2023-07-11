@@ -9,8 +9,8 @@ component:
     image: badal773/lens:954f5e6a-12-24
     artifact_id: 24
   image-scanner:
-    image: badal773/image-scanner:954f5e6a-15-28
-    artifact_id: 28
+    image: badal773/image-scanner:9099b2ff-15-80
+    artifact_id: 69
   kubewatch:
     image: badal773/kubewatch:9099b2ff-13-77
     artifact_id: 67
