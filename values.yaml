@@ -24,8 +24,8 @@ component:
     image: badal773/casbin:e5beda32-17-100
     artifact_id: 90
   app-sync-cronjob:
-    image: badal773/app-sync-cronjob:9099b2ff-18-84
-    artifact_id: 73
+    image: badal773/app-sync-cronjob:e5beda32-18-101
+    artifact_id: 91
   git-sensor:
     image: badal773/git-sensor:9099b2ff-19-83
     artifact_id: 72
