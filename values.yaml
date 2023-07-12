@@ -1,7 +1,10 @@
+version: 0.1.2
+relase: [orchestartor,dashboard,]
 component:
   dashboard:
     image: badal773/dashboard:e5beda32-11-118
     artifact_id: 103
+    
   orchestrator:
     image: badal773/orchestrator:e5beda32-8-98
     artifact_id: 87
