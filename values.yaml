@@ -18,8 +18,8 @@ component:
     image: badal773/kubelink:e5beda32-14-97
     artifact_id: 85
   notifyer-deploy:
-    image: badal773/notifyer-deploy:9099b2ff-16-81
-    artifact_id: 70
+    image: badal773/notifyer-deploy:e5beda32-16-102
+    artifact_id: 92
   casbin:
     image: badal773/casbin:e5beda32-17-100
     artifact_id: 90
