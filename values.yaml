@@ -1,7 +1,7 @@
 component:
   dashboard:
-    image: badal773/dashboard:e5beda32-11-96
-    artifact_id: 83
+    image: badal773/dashboard:e5beda32-11-118
+    artifact_id: 103
   orchestrator:
     image: badal773/orchestrator:e5beda32-8-98
     artifact_id: 87
