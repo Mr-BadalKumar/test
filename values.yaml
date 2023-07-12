@@ -21,8 +21,8 @@ component:
     image: badal773/notifyer-deploy:9099b2ff-16-81
     artifact_id: 70
   casbin:
-    image: badal773/casbin:9099b2ff-17-82
-    artifact_id: 71
+    image: badal773/casbin:e5beda32-17-100
+    artifact_id: 90
   app-sync-cronjob:
     image: badal773/app-sync-cronjob:9099b2ff-18-84
     artifact_id: 73
